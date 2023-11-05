@@ -1,0 +1,19 @@
+{
+    "name": "suendri-uinsu/pbwl-project10",
+    "description": "Praktikum Project 10 Pemrograman Berbasis Web Lanjutan",
+    "type": "project",
+    "authors": [
+        {
+            "name": "suendri-uinsu",
+            "email": "suendri@uinsu.ac.id"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "filp/whoops": "^2.14"
+    }
+}
